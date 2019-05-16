@@ -1,11 +1,17 @@
 CSS3 
   - Flexbox 
   - Grid Container 
-  - Compiladores de CSS - SASS / LESS 
   - Hierarquia, boas praticas e herança
   - Midia Query 
   - Design responsivo 
-  - Bootstrap 
+
+Compiladores de CSS
+  - SASS / LESS
+
+Frameworks CSS
+  - Bootstrap
+  - Foundation
+  - MaterializeCss
 
 HTML5
   - Semantica
@@ -13,8 +19,13 @@ HTML5
   - Formuçarios
   - Hierarquia, boas praticas e herança
   - Imagens vetoriais - SVG 
-  - Acessibilidade web 
-  
+
+Acessibilidade web 
+  - Diferentes problemas de acessibilidade
+  - Front-end mais inclusivo
+  - Solucinor problemas de acessibilidade com JS
+  - Soluções que impactam positivamente a experiência
+
 GIT 
   - Ciclo básico do Git 
   - Sincronização dos dados com o repositório 
