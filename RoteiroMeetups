@@ -1,0 +1,67 @@
+CSS3 
+  - Flexbox 
+  - Grid Container 
+  - Compiladores de CSS - SASS / LESS 
+  - Hierarquia, boas praticas e herança
+  - Midia Query 
+  - Design responsivo 
+  - Bootstrap 
+
+HTML5
+  - Semantica
+  - CEO
+  - Formuçarios
+  - Hierarquia, boas praticas e herança
+  - Imagens vetoriais - SVG 
+  - Acessabilidade web 
+  
+GIT 
+  - Ciclo básico do Git 
+  - Sincronização dos dados com o repositório 
+  - Boas práticas no uso do Git 
+  - Merges avançados com Cherry Pickt 
+  - Controle avançado de alterações 
+
+JS 
+  - Requisições Ajax 
+  - Callback 
+  - Expressões regulares 
+  - Regex 
+  - Consumindo a API 
+
+Angular 
+  - SPA
+  - TypeScript 
+  - Componentes 
+  - Diretivas 
+  - Data binding
+  - Integração com Web API's 
+  - HttpClient e injeção dependência
+  - Rotas e lazy loading 
+  - Angular CLI
+  
+React 
+  - Create React App
+  - componentes reutilizáveis
+  - ES6
+  - webpack babel
+  - React Router e o suporte à navegação 
+  - Presentational e Container componentes 
+  - Consumindo a API 
+  - Isolando os componentes 
+
+UX/UI 
+  - Designs inclusivos 
+  - Desenhar Fluxos de Navegação e interação com usuário
+  - Boas práticas
+  - Testes de usabilidade
+  - Research
+  - Wireframes e prototipagem
+  - Design responsivo
+  - Conceitos de estratégia de UX
+  - Micro interações
+  - MVP e MLP
+  - Fitts e Hick
+  - Posições dos elementos da interface
+
+  
